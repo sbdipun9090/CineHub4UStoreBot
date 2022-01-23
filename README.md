@@ -15,12 +15,12 @@ This is Telegram Parmanent Files Store Bot by [@harshil8981](https://github.com/
 <a href="https://t.me/TGFile_store_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
-- `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
-- `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
+- `API_ID` - Get this from [@Mytele_ORGbot](https://t.me/Mytele_ORGbot)
+- `API_HASH` - Get this from [@Mytele_ORGbot](https://t.me/Mytele_ORGbot)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `BOT_USERNAME` - You Bot Username. *(Without [@])*
 - `DB_CHANNEL` - A Telegram Channel ID.
-	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://t.me/dmcatelegram)!
+	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram HPGroup](https://t.me/Hpbot_update)!
 - `BOT_OWNER` - Bot Owner UserID
 	- Put your Telegram UserID for doing Broadcast.
 - `DATABASE_URL` - MongoDB Database URI
