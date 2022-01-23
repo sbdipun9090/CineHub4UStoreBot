@@ -12,10 +12,10 @@
     "success_url": "https://t.me/Hpbot_update",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org or @Mytele_ORGbot"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org or @Mytele_ORGbot"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD"
