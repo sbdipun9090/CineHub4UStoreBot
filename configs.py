@@ -30,23 +30,21 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @Mrkiller_1109
+🧑🏻‍💻 **Developer:** @Kingsb007
 
-👥 **Support Group:** [Linux Repositories](https://t.me/HP_Bot_discuss_group)
+👥 **Support Group:** [CineHub4U_ChitChat](https://t.me/CineHub4U_Group)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Hpbot_update)
+📢 **Updates Channel:** [CineHub4U](https://t.me/CineHub4U)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Mrkiller_1109
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
+Developer is Super Noob. Just Learning from Official Docs.
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 """
 
 
 	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot** For @CineHub4U.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
 """
